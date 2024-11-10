@@ -19,7 +19,7 @@
         {
             "groupId": "com.lumynlabs.frc",
             "artifactId": "LumynLabs-driver",
-            "version": "0.0.4",
+            "version": "0.0.6",
             "skipInvalidPlatforms": true,
             "isJar": false,
             "validPlatforms": [
